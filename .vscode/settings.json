@@ -1,0 +1,22 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "postgres",
+      "database": "anime_db",
+      "username": "postgres",
+      "password": "29rouli14",
+      "connectionTimeout": 30
+    },
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "driver": "PostgreSQL",
+      "connectString": "postgres://tpsdwmjg:kn4x1XKSgGa6ofMxEveV6hFGhQdDQXVs@john.db.elephantsql.com/tpsdwmjg",
+      "name": "elephantsql"
+    }
+  ]
+}
